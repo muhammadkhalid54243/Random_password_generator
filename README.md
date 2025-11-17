@@ -1,0 +1,10 @@
+1. collect user preferences
+-length
+-should contain Upper case Letter
+-should contain Special charaters
+-should contain digits
+
+2. get all the available characters
+3. generate random characters up to the length
+4. ensure atlease one each type charater in it
+5. ensure length is valid
